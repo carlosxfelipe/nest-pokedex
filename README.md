@@ -1,6 +1,15 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <p>
+    <a href="http://nestjs.com/" target="blank">
+      <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
+    </a>
+  </p>
+  <p>
+    <a href="https://pokeapi.co/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/2052px-Pok%C3%A9_Ball_icon.svg.png" width="200" alt="Poké Ball" />
+    </a>
+  </p>
+</div>
 
 # Executar em desenvolvimento
 
