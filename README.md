@@ -1,3 +1,5 @@
+![Preview do Projeto](./preview.png)
+
 # Executar em desenvolvimento
 
 1. Clonar o repositório
