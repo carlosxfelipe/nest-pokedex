@@ -21,13 +21,21 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
-5. Reconstruir o banco de dados com a semente
+5. Clonar o arquivo `.env.template` e renomear a cópia a `.env`
+
+```
+MONGODB=mongodb://localhost:27017/nest-pokemon
+PORT=3000
+DEFAULT_LIMIT=10
+```
+
+6. Reconstruir o banco de dados com a semente (opcional)
 
 ```
 localhost:3000/api/v2/seed
 ```
 
-6. Iniciar o servidor em modo de desenvolvimento
+7. Iniciar o servidor em modo de desenvolvimento
 
 ```
 npm run start:dev
